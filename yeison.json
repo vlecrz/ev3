@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Catch the Insulin",
-        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%2019.jpg", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%2019.jpg", "https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%201szsdc.jpg", "https://picsum.photos/id/252/500/310"],
         "soporte": "diseño de juegos, impacto social/medioambiental",
         "abstract": "Juego de educacional sobre la Diabetes Tipo 1",
         "texto": "Primer semestre 2023. Juego de exterior inspirado en el juego Captura la Bandera pero adoptando un enfoque educativo en cuanto a la temática de la Diabetes. El propósito principal es generar empatía y entendimiendo sobre la enfermedad en los compañeros de curso de jóvenes con Diabetes."
@@ -29,14 +29,14 @@
     },
     {
         "nombre": "Taller Las Canteras",
-        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%209.jpg", "https://github.com/vlecrz/ev3/blob/main/Mesa%20de%20trabajo%206.jpg", "https://picsum.photos/id/42/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%209.jpg", "https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%206.jpg", "https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%208%2B.jpg"],
         "soporte": "industrial, arquitectónico",
         "abstract": "Espacio de trabajo para las mujeres orfebres de Las Canteras",
         "texto": "Primer semestre 2022. Este proyecto fue un encargo de Puentes UC y Colina Emprende. El tema principal fue darle valor al Pueblito de Las Canteras y visibilizar el trabajo de sus residentes debido a que en 2018 fue declarado como Monumento Nacional por el ministerio de Educación. Como equipo, nos centramos en el trabajo de las artesanas orfebres del Pueblito de Las Canteras. Nuestro objetivo principal fue dignificar su trabajo a partir de la creación de un espacio que contiene todo lo necesario para el trabajo orfebre, además de considerar sus necesidades ergonómicas. Nuestra meta es que mediante la implementación o concretización de este taller ocurran cambios en la cultura de este pueblo, resignificando el rol de la mujer en este entorno dándole un mayor peso y trascendencia a su trabajo."
     },
     {
         "nombre": "Raiko",
-        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%2017.jpg", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%2017.jpg", "https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%20155.jpg", "https://picsum.photos/id/435/500/310"],
         "soporte": "diseño de juegos, impacto social/medioambiental",
         "abstract": "Juego de mesa inspirado en la selva valdiviana",
         "texto": "Segundo semestre 2021. Raiko es un juego que tiene como objetivo concientizar a las personas con respecto a los diversos actores que conviven su ecosistema y la manera en que se afectan entre sí. En las imágenes se pueden obseervar las cartas y las 'fichas' con las que se juega, siguiendo la dinámica del dominó, juego intuitivo y amigable para diferentes edades."
