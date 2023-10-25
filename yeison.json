@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Catch the Insulin",
-        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%2019.jpg", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
         "soporte": "diseño de juegos, impacto social/medioambiental",
         "abstract": "Juego de educacional sobre la Diabetes Tipo 1",
         "texto": "Primer semestre 2023. Juego de exterior inspirado en el juego Captura la Bandera pero adoptando un enfoque educativo en cuanto a la temática de la Diabetes. El propósito principal es generar empatía y entendimiendo sobre la enfermedad en los compañeros de curso de jóvenes con Diabetes."
@@ -15,7 +15,7 @@
     },
     {
         "nombre": "Solseco",
-        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%201yey.jpg", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
         "soporte": "diseño de juegos, impacto social/medioambiental",
         "abstract": "Juego de mesa para concientizar sobre la crisis hídrica",
         "texto": "Segundo semestre 2022. Solseco se sitúa en un futuro plausible, en el cual el recurso agua está muy escaso y las personas deben luchar para obtener un poco de ella. Optamos como grupo por hacer un juego ya que es una manera lúdica y entretenida de abordar un tema, visibilizar y entregar un mensaje que muchas veces es difícil de tocar al ser tan catastrófico. Este se compone de un tablero de 12 piezas donde los jugadores van avanzando de acuerdo a las cartas de la Fortuna. Estas determinan lo que ocurrirá con el personaje en ese turno al igual que la naturaleza actuaría si estuviéramos en ese escenario. Cada jugador cuenta con un litro de agua, la cual va perdiendo a lo largo de las jugadas."
@@ -29,14 +29,14 @@
     },
     {
         "nombre": "Taller Las Canteras",
-        "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%209.jpg", "https://github.com/vlecrz/ev3/blob/main/Mesa%20de%20trabajo%206.jpg", "https://picsum.photos/id/42/500/310"],
         "soporte": "industrial, arquitectónico",
         "abstract": "Espacio de trabajo para las mujeres orfebres de Las Canteras",
         "texto": "Primer semestre 2022. Este proyecto fue un encargo de Puentes UC y Colina Emprende. El tema principal fue darle valor al Pueblito de Las Canteras y visibilizar el trabajo de sus residentes debido a que en 2018 fue declarado como Monumento Nacional por el ministerio de Educación. Como equipo, nos centramos en el trabajo de las artesanas orfebres del Pueblito de Las Canteras. Nuestro objetivo principal fue dignificar su trabajo a partir de la creación de un espacio que contiene todo lo necesario para el trabajo orfebre, además de considerar sus necesidades ergonómicas. Nuestra meta es que mediante la implementación o concretización de este taller ocurran cambios en la cultura de este pueblo, resignificando el rol de la mujer en este entorno dándole un mayor peso y trascendencia a su trabajo."
     },
     {
         "nombre": "Raiko",
-        "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%2017.jpg", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
         "soporte": "diseño de juegos, impacto social/medioambiental",
         "abstract": "Juego de mesa inspirado en la selva valdiviana",
         "texto": "Segundo semestre 2021. Raiko es un juego que tiene como objetivo concientizar a las personas con respecto a los diversos actores que conviven su ecosistema y la manera en que se afectan entre sí. En las imágenes se pueden obseervar las cartas y las 'fichas' con las que se juega, siguiendo la dinámica del dominó, juego intuitivo y amigable para diferentes edades."
@@ -50,7 +50,7 @@
     },
     {
         "nombre": "Modelado Rick y Morty",
-        "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%201.jpg", "https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%201.jpg", "https://picsum.photos/id/816/500/310"],
         "soporte": "industrial, producto",
         "abstract": "Modelado 3D de Rick y Morty",
         "texto": "Segundo semestre 2020. Examen de Diseño por Computación I el cual consistió en el modelado de la nave y de los personajes principales de la serie 'Rick y Morty', además del posterior editado de colores y texturas. Además, se hicieron 3 variantes de colores y materiales. Los programas utilizados en este proyecto fueron Rhinoceros para el modelado y Keyshot para las texturas, materiales y renders."
